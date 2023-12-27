@@ -19,11 +19,27 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
 -  Case Law Analysis with Machine Learning in Brazilian Court [Link](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=4yppHS4AAAAJ&citation_for_view=4yppHS4AAAAJ:u-x6o8ySG0sC)
 -  Programming the Nationality Identity in the Federal Constitution of Brazil [Link](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=4yppHS4AAAAJ&citation_for_view=4yppHS4AAAAJ:d1gkVwhDpl0C)
 
-#### How to reach me 📫
--  rhuanbarros@gmail.com
--  [Linkedin profile](https://www.linkedin.com/in/rhuan-barros-87a8aa5/)
-
 #### Blog posts
 -  [Análise jurisprudencial com técnica de aprendizado de máquina](https://medium.com/@rhuanbarros/an%C3%A1lise-jurisprudencial-com-t%C3%A9cnica-de-aprendizado-de-m%C3%A1quina-925a14f07325)
 
+#### Projects portfolio
+- Machine Learning projects
+    -  Analysis of Court Decisions using Machine Learning with Weak Supervision
+        - Decription:
+            - Automatic extraction of documents from internet and pre-processing unsing NLP techniques
+            - Development of Machine Learning models to classify documents based on the judge's ruling.
+            - Statistical tests to validate the findings.
+            - Graphs plots and dashboards
+        - Technologies: Python, Sci-kit Learning lib, Scrapy, Google BigQuery, Snorkel Framework
+        - [Project link](https://github.com/rhuanbarros/court_decisions_jurimetric_analysis)
 
+- Fullstack projects
+    -  Materiale
+        - Solution for managing construction material budgets for stores serving various clients. Deployed using Supabase Serverless technologies. The system works entirely on the front end, leveraging C# Blazor WebAssembly, and Supabase Realtime Postgres database.
+        - Technologies: C#, Blazor, Supabase, HTML, CSS
+        - [Project link](https://github.com/rhuanbarros/MaterialeShop.Admin)
+
+
+#### How to reach me 📫
+-  rhuanbarros@gmail.com
+-  [Linkedin profile](https://www.linkedin.com/in/rhuan-barros-87a8aa5/)
