@@ -33,6 +33,27 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
         - Technologies: Python, Sci-kit Learning lib, Scrapy, Google BigQuery, Snorkel Framework
         - [Project link](https://github.com/rhuanbarros/court_decisions_jurimetric_analysis)
 
+- LLM AI Agents projects
+    - LLM RAG Agent Knowledgebase
+        - Full-stack AI project to talk with personal documents. 🚀
+        - 🤖 AI agent for chatting about ingested document files.
+        - 📁 Handles file ingestion, vector stores, user chat, and advanced search queries.
+        - 🛠️ Key technologies:
+            - LangGraph: Agent orchestration.
+            - FastAPI: Backend framework.
+            - Unstructured Package: File ingestion and OCR.
+            - Weaviate: Vector store.
+            - 🐳 Docker Compose: Weaviate containerization.
+            - C# Blazor: Frontend framework.
+            - Backend (FastAPI)
+                - Processes diverse files and performs OCR in Portuguese.
+                - Enhances semantic similarity with chunk splitting.
+                - Engages in conversation, supports tool use, and saves history via SQLite.
+                - Implements keyword, semantic, and hybrid search.
+            - Frontend (C# Blazor):
+                - 🚀 Runs in the browser with WebAssembly.
+                - Fetches data from the backend API.
+
 - Fullstack projects
     -  Materiale
         - Solution for managing construction material budgets for stores serving various clients. Deployed using Supabase Serverless technologies. The system works entirely on the front end, leveraging C# Blazor WebAssembly, and Supabase Realtime Postgres database.
