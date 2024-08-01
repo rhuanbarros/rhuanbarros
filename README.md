@@ -2,7 +2,7 @@
 
 I'm a Master's graduate from the Federal University of Rio Grande do Sul, specializing in Data Science, Artificial Intelligence, and Natural Language Processing. My expertise lies in applying these technologies to legal documents and the justice system.
 
-#### Master's degree project 📖
+#### 📖 Master's degree project 
 -  Title: "Case Law Analysis with Machine Learning in Brazilian Court"
 -  This research involved the automatic extraction of judicial decisions from web pages and their processing through Natural Language Processing techniques.
 -  Subsequently, this data was used in the development of Machine Learning models to classify documents based on the judge's ruling.
@@ -15,7 +15,7 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
 -  Full stack development: Full stack C# Blazor developer.
 -  Code: Python, C#, HTML, CSS, Java Script, Powershel, ...
 
-#### Publications 📖
+#### 📖 Publications
 -  Case Law Analysis with Machine Learning in Brazilian Court [Link](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=4yppHS4AAAAJ&citation_for_view=4yppHS4AAAAJ:u-x6o8ySG0sC)
 -  Programming the Nationality Identity in the Federal Constitution of Brazil [Link](https://scholar.google.com.br/citations?view_op=view_citation&hl=pt-BR&user=4yppHS4AAAAJ&citation_for_view=4yppHS4AAAAJ:d1gkVwhDpl0C)
 
@@ -67,9 +67,9 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
         - 🎙️ Convert Text to Speech: Use Microsoft's speecht5_tts model for speech synthesis.
         - 🎵 Process Audio Files: Convert generated audio to MP3 format.
         - 🔑 Key Points:
-          - 📈 Transcription Accuracy: Ensure high accuracy using Whisper model.
-          - 🔄 Sentence Separation: Develop methods to cleanly segment sentences.
-          - 💻 Tech Vocabulary Adaptation: Adapt sentences to include tech terms.
+          - Transcription Accuracy: Ensure high accuracy using Whisper model.
+          - Sentence Separation: Develop methods to cleanly segment sentences.
+          - Tech Vocabulary Adaptation: Adapt sentences to include tech terms.
           - 🔊 Speech Conversion: Ensure natural and clear text-to-speech using speecht5_tts.
           - 🎶 Audio Processing: Convert and optimize audio files to MP3.
          
@@ -77,14 +77,14 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
         - Problem Addressed: Lack of specific machine learning quizzes and progress tracking.
         - 💡 Solution:
           - 📝 Customized Prompts: Create better questions by prompting ChatGPT with subject texts.
-          - 📚 Integrated Explanations: Use Gemini model to explain topics within the app.
+          - Integrated Explanations: Use Gemini model to explain topics within the app.
           - 📊 Result Tracking: Track study progress and quiz results using Supabase backend.
-          - 📱 Cloud Accessibility: Streamlit UI hosted in the cloud for mobile access.
+          - Cloud Accessibility: Streamlit UI hosted in the cloud for mobile access.
         - 🔑 Key Points:
-          - 📈 Enhanced Learning: Improved question creation with customized prompts.
-          - 📚 Seamless Knowledge Access: Direct topic explanations from Gemini model.
-          - 🗂️ Progress Tracking: Monitor study progress and quiz outcomes.
-          - ☁️ Anywhere Access: Use the app on mobile devices via cloud hosting.
+          - Enhanced Learning: Improved question creation with customized prompts.
+          - Seamless Knowledge Access: Direct topic explanations from Gemini model.
+          - Progress Tracking: Monitor study progress and quiz outcomes.
+          - Anywhere Access: Use the app on mobile devices via cloud hosting.
 
     - 📧🤖 LLM Agent Gmail Parser Better RAG
         - Problem Addressed: Challenges in indexing emails for RAG applications or knowledge extraction.
@@ -93,8 +93,8 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
             - Utilized various prompt techniques to extract crucial information from emails.
             - Found that report-style summaries are more effective than generic summaries.
         - 🌟 Key Points:
-            - 📉 Noise Reduction: Implemented techniques to filter out irrelevant information.
-            - 🧵 Thread Handling: Developed methods to accurately parse and summarize email threads.
+            - Noise Reduction: Implemented techniques to filter out irrelevant information.
+            - Thread Handling: Developed methods to accurately parse and summarize email threads.
             - 📝 Report-Style Summaries: Retain more essential information than generic summaries.
             - 🔧 Prompt Engineering: Experimented with different prompt structures to improve extraction of valuable insights.
 
