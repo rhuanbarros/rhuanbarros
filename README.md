@@ -57,6 +57,21 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
             - Frontend (C# Blazor):
                 - 🚀 Runs in the browser with WebAssembly.
                 - Fetches data from the backend API.
+             
+    - 🤖 [Machine Learning Interview Preparation Quiz Trainer - Anvil framework version](https://github.com/rhuanbarros/quiz-study-trainer)
+        - Problem Addressed: Lack of specific machine learning quizzes, progress tracking and memorization techiniques included.
+        - 💡 Solution:
+          - 🐍 Python: Completely coded in Python using the Anvil framework (frontend and backend).
+          - 📝 Customized Prompts: Create better questions by prompting ChatGPT with subject texts.
+          - Integrated Explanations: Use LLM models to explain topics within the app.
+          - 📊 Result Tracking: Track study progress and quiz results using Supabase backend.
+          - Cloud Accessibility: hosted in the Anvil cloud.
+        - 🔑 Key Points:
+          - Enhanced Learning: Improved question creation with customized prompts.
+          - Seamless Knowledge Access: Direct topic explanations from Gemini model.
+          - Progress Tracking: Monitor study progress and quiz outcomes.
+          - Anywhere Access: Use the app on mobile devices via cloud hosting.
+          - 
     - 📚 [English sentence creator](https://github.com/rhuanbarros/llm-english-study-audio-sentece-creator)
         - Prototype Purpose: Assists students in learning English with tech industry sentences.
         - 📝 Transcribe Audio Files: Use Whisper model from OpenAI to transcribe audio to text.
@@ -70,19 +85,6 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
           - Tech Vocabulary Adaptation: Adapt sentences to include tech terms.
           - 🔊 Speech Conversion: Ensure natural and clear text-to-speech using speecht5_tts.
           - 🎶 Audio Processing: Convert and optimize audio files to MP3.
-         
-    - 🤖 [Machine Learning Interview Preparation Trainer - legacy Streamlit version](https://github.com/rhuanbarros/llm-quiz-creator-streamlitapp-trainer)
-        - Problem Addressed: Lack of specific machine learning quizzes and progress tracking.
-        - 💡 Solution:
-          - 📝 Customized Prompts: Create better questions by prompting ChatGPT with subject texts.
-          - Integrated Explanations: Use Gemini model to explain topics within the app.
-          - 📊 Result Tracking: Track study progress and quiz results using Supabase backend.
-          - Cloud Accessibility: Streamlit UI hosted in the cloud for mobile access.
-        - 🔑 Key Points:
-          - Enhanced Learning: Improved question creation with customized prompts.
-          - Seamless Knowledge Access: Direct topic explanations from Gemini model.
-          - Progress Tracking: Monitor study progress and quiz outcomes.
-          - Anywhere Access: Use the app on mobile devices via cloud hosting.
 
     - 📧🤖 [LLM Agent Gmail Parser Better RAG](https://github.com/rhuanbarros/llm-agent-gmail_parser-better-rag)
         - Problem Addressed: Challenges in indexing emails for RAG applications or knowledge extraction.
@@ -96,6 +98,18 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
             - 📝 Report-Style Summaries: Retain more essential information than generic summaries.
             - 🔧 Prompt Engineering: Experimented with different prompt structures to improve extraction of valuable insights.
 
+    - 🤖 [Machine Learning Interview Preparation Trainer - legacy Streamlit version](https://github.com/rhuanbarros/llm-quiz-creator-streamlitapp-trainer)
+        - Problem Addressed: Lack of specific machine learning quizzes and progress tracking.
+        - 💡 Solution:
+          - 📝 Customized Prompts: Create better questions by prompting ChatGPT with subject texts.
+          - Integrated Explanations: Use Gemini model to explain topics within the app.
+          - 📊 Result Tracking: Track study progress and quiz results using Supabase backend.
+          - Cloud Accessibility: Streamlit UI hosted in the cloud for mobile access.
+        - 🔑 Key Points:
+          - Enhanced Learning: Improved question creation with customized prompts.
+          - Seamless Knowledge Access: Direct topic explanations from Gemini model.
+          - Progress Tracking: Monitor study progress and quiz outcomes.
+          - Anywhere Access: Use the app on mobile devices via cloud hosting.
 
 #### How to reach me 📫
 -  rhuanbarros@gmail.com
