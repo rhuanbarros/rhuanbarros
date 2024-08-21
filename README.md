@@ -24,23 +24,21 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
 
 #### Projects portfolio
 - 🧠 Machine Learning projects
-    -  Analysis of Court Decisions using Machine Learning with Weak Supervision
+    -  [Analysis of Court Decisions using Machine Learning with Weak Supervision](https://github.com/rhuanbarros/court_decisions_jurimetric_analysis)
         - Decription:
             - Automatic extraction of documents from internet and pre-processing unsing NLP techniques
             - Development of Machine Learning models to classify documents based on the judge's ruling.
             - 📊 Statistical tests to validate the findings.
             - Graphs plots and dashboards
         - Technologies: Python, Sci-kit Learning lib, Scrapy, Google BigQuery, Snorkel Framework
-        - [Project link](https://github.com/rhuanbarros/court_decisions_jurimetric_analysis)
 
 - 💻 Fullstack projects
-    -  Materiale
+    -  [Materiale](https://github.com/rhuanbarros/MaterialeShop.Admin)
         - Solution for managing construction material budgets for stores serving various clients. Deployed using Supabase Serverless technologies. The system works entirely on the front end, leveraging C# Blazor WebAssembly, and Supabase Realtime Postgres database.
         - Technologies: C#, Blazor, Supabase, HTML, CSS
-        - [Project link](https://github.com/rhuanbarros/MaterialeShop.Admin)
           
 - 🤖 LLM AI Agents projects
-    - LLM RAG Agent Knowledgebase
+    - [LLM RAG Agent Knowledgebase](https://github.com/rhuanbarros/llm-rag-agent-knowledgebase)
         - Full-stack AI project to talk with personal documents. 🚀
         - AI agent for chatting about ingested document files.
         - 📁 Handles file ingestion, vector stores, user chat, and advanced search queries.
@@ -59,7 +57,7 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
             - Frontend (C# Blazor):
                 - 🚀 Runs in the browser with WebAssembly.
                 - Fetches data from the backend API.
-    - 📚 English sentence creator
+    - 📚 [English sentence creator](https://github.com/rhuanbarros/llm-english-study-audio-sentece-creator)
         - Prototype Purpose: Assists students in learning English with tech industry sentences.
         - 📝 Transcribe Audio Files: Use Whisper model from OpenAI to transcribe audio to text.
         - Sentence Separation: Separate transcribed sentences for better language model understanding.
@@ -73,7 +71,7 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
           - 🔊 Speech Conversion: Ensure natural and clear text-to-speech using speecht5_tts.
           - 🎶 Audio Processing: Convert and optimize audio files to MP3.
          
-    - 🤖 Machine Learning Interview Preparation Trainer
+    - 🤖 [Machine Learning Interview Preparation Trainer - legacy Streamlit version](https://github.com/rhuanbarros/llm-quiz-creator-streamlitapp-trainer)
         - Problem Addressed: Lack of specific machine learning quizzes and progress tracking.
         - 💡 Solution:
           - 📝 Customized Prompts: Create better questions by prompting ChatGPT with subject texts.
@@ -86,7 +84,7 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
           - Progress Tracking: Monitor study progress and quiz outcomes.
           - Anywhere Access: Use the app on mobile devices via cloud hosting.
 
-    - 📧🤖 LLM Agent Gmail Parser Better RAG
+    - 📧🤖 [LLM Agent Gmail Parser Better RAG](https://github.com/rhuanbarros/llm-agent-gmail_parser-better-rag)
         - Problem Addressed: Challenges in indexing emails for RAG applications or knowledge extraction.
             - Issues include noise and garbage in text and dealing with email threads.
         - 💡 Solution:
