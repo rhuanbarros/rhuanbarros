@@ -11,7 +11,7 @@ I'm a Master's graduate from the Federal University of Rio Grande do Sul, specia
 -  🚀 It received over 20 academic citations, and its presentation (in English) at a conference in Canada. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=4yppHS4AAAAJ&citation_for_view=4yppHS4AAAAJ:u-x6o8ySG0sC)
 
 #### Skils
--  Machine Learning: EDA, ETL, Sci-kit Leaning lib, Tensor Flow, NLP, LLM, Vision models.
+-  Machine Learning: PyTorch, TensorFlow, NLP, LLM, Vision models, EDA, ETL, Sci-kit Leaning lib, 
 -  Full stack development: Full stack C# Blazor developer.
 -  Code: Python, C#, HTML, CSS, Java Script, Powershel, ...
 
